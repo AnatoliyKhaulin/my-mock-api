@@ -1,0 +1,1249 @@
+{
+  "nav": {
+    "catalog": [
+      {
+        "name": "18+",
+        "staticUrl": "/adult/",
+        "categories": [
+          {
+            "name": "Фаллоимитаторы",
+            "staticUrl": "/adult/dick/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/dick/water/"
+              },{
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/dick/silicon/"
+              },{
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/dick/anal/"
+              },{
+                "name": "Возбуждающие",
+                "staticUrl": "/adult/dick/exciting/"
+              },{
+                "name": "Пролонгаторы ",
+                "staticUrl": "/adult/dick/prolongators/"
+              }
+            ]
+          },
+          {
+            "name": "Вибраторы",
+            "staticUrl": "/adult/vibration/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/vibration/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/vibration/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/vibration/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Анальные игрушки",
+            "staticUrl": "/adult/anal/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/anal/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/anal/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/anal/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Страпоны, фаллопротезы",
+            "staticUrl": "/adult/strap/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/strap/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/strap/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/strap/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Смазки, лубриканты",
+            "staticUrl": "/adult/wd40/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/wd40/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/wd40/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/wd40/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Секс-мебель и качели",
+            "staticUrl": "/adult/mebel/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/mebel/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/mebel/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/mebel/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Приятные мелочи",
+            "staticUrl": "/adult/enjoy/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/enjoy/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/enjoy/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/enjoy/anal/"
+              }
+            ]
+          },
+          {
+            "name": "БАДы",
+            "staticUrl": "/adult/bad/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bad/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bad/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bad/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Классическое белье",
+        "staticUrl": "/classic-underwear/",
+        "categories": [
+          {
+            "name": "Фаллоимитаторы",
+            "staticUrl": "/adult/dick/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/dick/water/"
+              },{
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/dick/silicon/"
+              },{
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/dick/anal/"
+              },{
+                "name": "Возбуждающие",
+                "staticUrl": "/adult/dick/exciting/"
+              },{
+                "name": "Пролонгаторы ",
+                "staticUrl": "/adult/dick/prolongators/"
+              }
+            ]
+          },
+          {
+            "name": "Вибраторы",
+            "staticUrl": "/adult/vibration/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/vibration/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/vibration/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/vibration/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Анальные игрушки",
+            "staticUrl": "/adult/anal/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/anal/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/anal/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/anal/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Страпоны, фаллопротезы",
+            "staticUrl": "/adult/strap/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/strap/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/strap/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/strap/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Смазки, лубриканты",
+            "staticUrl": "/adult/wd40/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/wd40/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/wd40/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/wd40/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Секс-мебель и качели",
+            "staticUrl": "/adult/mebel/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/mebel/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/mebel/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/mebel/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Приятные мелочи",
+            "staticUrl": "/adult/enjoy/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/enjoy/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/enjoy/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/enjoy/anal/"
+              }
+            ]
+          },
+          {
+            "name": "БАДы",
+            "staticUrl": "/adult/bad/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bad/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bad/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bad/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Эротическое белье",
+        "staticUrl": "/erotic-underwear/",
+        "categories": [
+          {
+            "name": "Фаллоимитаторы",
+            "staticUrl": "/adult/dick/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/dick/water/"
+              },{
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/dick/silicon/"
+              },{
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/dick/anal/"
+              },{
+                "name": "Возбуждающие",
+                "staticUrl": "/adult/dick/exciting/"
+              },{
+                "name": "Пролонгаторы ",
+                "staticUrl": "/adult/dick/prolongators/"
+              }
+            ]
+          },
+          {
+            "name": "Вибраторы",
+            "staticUrl": "/adult/vibration/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/vibration/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/vibration/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/vibration/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Анальные игрушки",
+            "staticUrl": "/adult/anal/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/anal/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/anal/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/anal/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Страпоны, фаллопротезы",
+            "staticUrl": "/adult/strap/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/strap/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/strap/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/strap/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Смазки, лубриканты",
+            "staticUrl": "/adult/wd40/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/wd40/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/wd40/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/wd40/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Секс-мебель и качели",
+            "staticUrl": "/adult/mebel/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/mebel/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/mebel/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/mebel/anal/"
+              }
+            ]
+          },
+          {
+            "name": "Приятные мелочи",
+            "staticUrl": "/adult/enjoy/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/enjoy/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/enjoy/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/enjoy/anal/"
+              }
+            ]
+          },
+          {
+            "name": "БАДы",
+            "staticUrl": "/adult/bad/",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bad/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bad/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bad/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          },
+          {
+            "name": "BDSM",
+            "staticUrl": "/adult/bdsm",
+            "pages": [
+              {
+                "name": "На водной основе",
+                "staticUrl": "/adult/bdsm/water/"
+              },
+              {
+                "name": "На силиконовой основе",
+                "staticUrl": "/adult/bdsm/silicon/"
+              },
+              {
+                "name": "Анальные смазки",
+                "staticUrl": "/adult/bdsm/anal/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "name": "О компании",
+        "staticUrl": "/about/",
+        "pages": [
+          {
+            "name": "Миссия",
+            "staticUrl": "/about/mission/"
+          },
+          {
+            "name": "Новости",
+            "staticUrl": "/about/news/"
+          },
+          {
+            "name": "О нас говорят",
+            "staticUrl": "/about/speak/"
+          },
+          {
+            "name": "Для СМИ",
+            "staticUrl": "/about/media/"
+          },
+          {
+            "name": "Вакансии",
+            "staticUrl": "/about/vacancy/"
+          },
+          {
+            "name": "Контакты",
+            "staticUrl": "/about/contacts/"
+          }
+        ]
+      },
+      {
+        "name": "Сотрудничество",
+        "staticUrl": "/partnership/",
+        "pages": [
+          {
+            "name": "Маркетплейсы",
+            "staticUrl": "/partnership/marketplaces/"
+          },
+          {
+            "name": "Интернет-магазины",
+            "staticUrl": "/partnership/online-shop/"
+          },
+          {
+            "name": "Дропшиппинг",
+            "staticUrl": "/partnership/dropshipping/"
+          },
+          {
+            "name": "Оптовые покупки",
+            "staticUrl": "/partnership/opt"
+          },
+          {
+            "name": "Совместные покупки",
+            "staticUrl": "/partnership/sp"
+          },
+          {
+            "name": "Готовые сайты",
+            "staticUrl": "https://fire.p5s.ru/?utm_source=p5s.ru&utm_medium=organic&utm_campaign=website_p5s.ru"
+          }
+        ]
+      },
+      {
+        "name": "Партнеры",
+        "staticUrl": "/partners/",
+        "pages": [
+          {
+            "name": "InSales",
+            "staticUrl": "/partners/insales/"
+          },
+          {
+            "name": "AdvantShop",
+            "staticUrl": "/partners/advantshop/"
+          },
+          {
+            "name": "Робокасса",
+            "staticUrl": "/partners/robokassa/"
+          },
+          {
+            "name": "Розовый слоник",
+            "staticUrl": "/partners/pink-elephant/"
+          },
+          {
+            "name": "Kokoc group",
+            "staticUrl": "/partners/kokoc/"
+          }
+        ]
+      },
+      {
+        "name": "Ценовая политика",
+        "staticUrl": "/price-policy/",
+        "pages": [
+          {
+            "name": "Бренды без маркетплейсов",
+            "staticUrl": "/price-policy/no-mp/"
+          },
+          {
+            "name": "Бренды без ограничений",
+            "staticUrl": "/price-policy/no-limits/"
+          },
+          {
+            "name": "Бренды с РРЦ",
+            "staticUrl": "/price-policy/with-rrc/"
+          }
+        ]
+      },
+      {
+        "name": "Возврат и гарантия",
+        "staticUrl": "/return-warranty/",
+        "pages": [
+          {
+            "name": "Возврат дропшиппинг",
+            "staticUrl": "/return-warranty/ds/"
+          },
+          {
+            "name": "Возврат Почтой РФ",
+            "staticUrl": "/return-warranty/post/"
+          },
+          {
+            "name": "Возврат PickPoint",
+            "staticUrl": "/return-warranty/pick-point/"
+          },
+          {
+            "name": "Возврат в офисе",
+            "staticUrl": "/return-warranty/office/"
+          },
+          {
+            "name": "Гарантия",
+            "staticUrl": "/return-warranty/warranty/"
+          }
+        ]
+      },
+      {
+        "name": "API и выгрузки",
+        "staticUrl": "/api-uploads/",
+        "pages": [
+          {
+            "name": "API",
+            "staticUrl": "/api-uploads/api/"
+          },
+          {
+            "name": "API дропшиппинг",
+            "staticUrl": "/api-uploads/api-ds/"
+          },
+          {
+            "name": "Популярные выгрузки",
+            "staticUrl": "/api-uploads/popular/"
+          },
+          {
+            "name": "Smart Feed",
+            "staticUrl": "/api-uploads/smart-feed/"
+          }
+        ]
+      }
+    ]
+  },
+  "static": [
+    {
+      "content": "<h2>\n\t\tЦены\n\t</h2>\n\t<p>Наши цены установлены в рублях. На значительную часть ассортимента они зафиксированы и не меняются в течении продолжительного времени.</p>\n\t<p>\n\t\tАктуальные цены всегда доступны на нашем сайте, однако для их просмотра Вам потребуется авторизоваться.\n\t</p><h2>Минимальная сумма заказа</h2><p>Понятие минимальной суммы заказа у нас отсутствует. Мы готовы отпустить Вам по оптовой цене и один комплект белья и контейнер, однако цены и прочие условия в этих случаях, вероятно будут отличаться.</p><h2>Скидки</h2><p>Мы ищем не клиентов, мы ищем партнеров, и рассчитываем на долгое, плодотворное, взаимовыгодное сотрудничество. Мы используем абсолютно прозрачную и понятную систему скидок:</p><ul>\n\t<li>\n\t\tПри сумме закупки более 50 000 рублей в месяц, мы предоставляем скидку 5% на следующий месяц.\n\t</li>\n\t<li>\n\t\tПри сумме закупки более 100 000 рублей в месяц, мы предоставляем скидку 10% на следующий месяц.\n\t</li>\n</ul>",
+      "description": "Крутое описание",
+      "keywords": "первое второе третье",
+      "menu": "О компании",
+      "name": "О компании",
+      "pages": [
+        {
+          "name": "Миссия",
+          "staticUrl": "/about/mission/"
+        },
+        {
+          "name": "Новости",
+          "staticUrl": "/about/news/"
+        },
+        {
+          "name": "Для СМИ",
+          "staticUrl": "/about/media/"
+        },
+        {
+          "name": "О нас говорят",
+          "staticUrl": "/about/speak/"
+        },
+        {
+          "name": "Вакансии",
+          "staticUrl": "/about/vacancy/"
+        }
+      ],
+      "status": 1,
+      "title": " О компании",
+      "staticUrl": "/about/"
+    },
+    {
+      "name": "Миссия",
+      "menu": "Миссия",
+      "title": "Миссия",
+      "keywords": "Основные условия миссия",
+      "description": "Крутая миссия",
+      "content": "<h2>Почему «Поставщик»?</h2>\n<p>Мы убеждены в том, что эффективный и стабильный бизнес мы можем построить только в случае успешного развития и роста наших клиентов и партнеров.</p>\n<p>В лице нашей компании Вы найдете самого надежного поставщика и партнера на рынке.</p>\n<p>Мы всегда будем прикладывать все мыслимые и немыслимые усилия, создавая идеальные условия работы для наших клиентов.</p>\n<h3>Почему «счастья»?</h3>\n<p>\n  Меня часто спрашивают — <em>«Дима, почему ты занимаешься этим развратным бизнесом?»</em>\n  <br>\n  <br>\n\tЯ всегда, каждому спрашивающему, объяснял и никогда не перестану объяснять:\n\t<br><br>\n\t<em>«Любой человек, имеющий здоровый уверенный регулярный секс, гораздо бодрее \nи увереннее чувствует и ведет себя по жизни. Он эффективнее работает. Он уверен \nв своих делах и поступках. У него все хорошо.\n<br><br>\nБрак, в котором живет крепкий регулярный секс, невозможно разрушить. Светлое чувство любви всегда будет крепнуть и развиваться, если оно поддержано страстным, здоровым, регулярным сексом.\n<br><br>\nМногие люди не получают полного удовольствия от секса. Это происходит по самым разным причинам, это может быть какая-то физиологическая или эмоциональная проблема. И то, и другое, может элементарно решаться товарами из нашего ассортимента. Кому-то поможет копеешная смазочка, кому-то достаточно будет \nсменить цвет белья...\n<br><br>\nЗачастую проблемы, с которыми люди живут и мучаются годами или десятилетиями, решаются очень легко, нужно просто набраться смелости и обсудить их с партнером.\n<br><br>\nВ моей работе нет места разврату и прочим пакостям, о которых некоторые думают.\n<br><br>\nСвоей работой я делаю людей счастливее.»\n</em>\n<br><br>\n<strong>\n\tГенеральный директор «Поставщик счастья»,\n\t<br>\n\tДмитрий Коробицын\n</strong>\n</p>",
+      "pages": [],
+      "status": 1,
+      "staticUrl": "/about/mission/"
+    },
+    {
+      "name": "Новости",
+      "menu": "Новости",
+      "title": "Новости",
+      "keywords": "Основные условия миссия",
+      "description": "Крутая миссия",
+      "content": "<h2>Почему «Поставщик»?</h2>\n<p>Мы убеждены в том, что эффективный и стабильный бизнес мы можем построить только в случае успешного развития и роста наших клиентов и партнеров.</p>\n<p>В лице нашей компании Вы найдете самого надежного поставщика и партнера на рынке.</p>\n<p>Мы всегда будем прикладывать все мыслимые и немыслимые усилия, создавая идеальные условия работы для наших клиентов.</p>\n<h3>Почему «счастья»?</h3>\n<p>\n  Меня часто спрашивают — <em>«Дима, почему ты занимаешься этим развратным бизнесом?»</em>\n  <br>\n  <br>\n\tЯ всегда, каждому спрашивающему, объяснял и никогда не перестану объяснять:\n\t<br><br>\n\t<em>«Любой человек, имеющий здоровый уверенный регулярный секс, гораздо бодрее \nи увереннее чувствует и ведет себя по жизни. Он эффективнее работает. Он уверен \nв своих делах и поступках. У него все хорошо.\n<br><br>\nБрак, в котором живет крепкий регулярный секс, невозможно разрушить. Светлое чувство любви всегда будет крепнуть и развиваться, если оно поддержано страстным, здоровым, регулярным сексом.\n<br><br>\nМногие люди не получают полного удовольствия от секса. Это происходит по самым разным причинам, это может быть какая-то физиологическая или эмоциональная проблема. И то, и другое, может элементарно решаться товарами из нашего ассортимента. Кому-то поможет копеешная смазочка, кому-то достаточно будет \nсменить цвет белья...\n<br><br>\nЗачастую проблемы, с которыми люди живут и мучаются годами или десятилетиями, решаются очень легко, нужно просто набраться смелости и обсудить их с партнером.\n<br><br>\nВ моей работе нет места разврату и прочим пакостям, о которых некоторые думают.\n<br><br>\nСвоей работой я делаю людей счастливее.»\n</em>\n<br><br>\n<strong>\n\tГенеральный директор «Поставщик счастья»,\n\t<br>\n\tДмитрий Коробицын\n</strong>\n</p>",
+      "pages": [],
+      "status": 1,
+      "staticUrl": "/about/news/"
+    },
+    {
+      "staticUrl": "/partnership/",
+      "name": "Партнерские программы",
+      "content": "<h1>Партнерские программы</h1>",
+      "menu": "Партнерские программы",
+      "title": "Партнерские программы",
+      "keywords": "Партнерские программы Партнерские программы Партнерские программы",
+      "description": "Партнерские программы Партнерские программы",
+      "pages": [
+        {
+          "name": "Маркетплейсы",
+          "staticUrl": "/partnership/marketplaces/"
+        },
+        {
+          "name": "Интернет-магазины",
+          "staticUrl": "/partnership/online-shop/"
+        },
+        {
+          "name": "Дропшиппинг",
+          "staticUrl": "/partnership/dropshipping/"
+        },
+        {
+          "name": "Оптовые покупки",
+          "staticUrl": "/partnership/opt"
+        },
+        {
+          "name": "Совместные покупки",
+          "staticUrl": "/partnership/sp"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "staticUrl": "/partnership/marketplaces/",
+      "name": "Маркетплейсы",
+      "content": "Строка с md или html",
+      "menu": "Маркетплейсы",
+      "title": "Маркетплейсы",
+      "keywords": "Маркетплейсы",
+      "description": "Маркетплейсы",
+      "pages": [
+        {
+          "name": "Схемы работы",
+          "staticUrl": "/partnership/marketplaces/shemes/"
+        },
+        {
+          "name": "Упаковка и маркировка",
+          "staticUrl": "/partnership/marketplaces/packing/"
+        },
+        {
+          "name": "Карточки товара",
+          "staticUrl": "/partnership/marketplaces/cards/"
+        },
+        {
+          "name": "Доставка",
+          "staticUrl": "/partnership/marketplaces/delivery/"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "staticUrl": "/partnership/marketplaces/shemes/",
+      "name": "Схемы работы",
+      "content": "Строка с md или html",
+      "menu": "Схемы работы",
+      "title": "Схемы работы",
+      "keywords": "Схемы работы",
+      "description": "Схемы работы",
+      "pages": [
+        {
+          "name": "Wb",
+          "staticUrl": "/partnership/marketplaces/shemes/wb"
+        },
+        {
+          "name": "Ozon",
+          "staticUrl": "/partnership/marketplaces/shemes/ozon"
+        },
+        {
+          "name": "Yandex",
+          "staticUrl": "/partnership/marketplaces/shemes/yandex"
+        },
+        {
+          "name": "Goods",
+          "staticUrl": "/partnership/marketplaces/shemes/goods"
+        }
+      ],
+      "status": 1
+    },
+    {
+      "staticUrl": "/partnership/marketplaces/shemes/wb/",
+      "name": "Wildberries",
+      "content": "Строка с md или html",
+      "menu": "Wildberries",
+      "title": "Wildberries",
+      "keywords": "Wildberries",
+      "description": "Wildberries",
+      "pages": [],
+      "status": 1
+    },
+    {
+      "staticUrl": "/api/",
+      "name": "API и выгрузки",
+      "content": "<h1>API и выгрузки</h1>"
+    }
+  ],
+
+  "banners": [
+    {
+      "title": "Новый бренд — теперь банановый",
+      "description": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»",
+      "image": {
+        "url": "/images/banner_1.jpg",
+        "alt": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»"
+      },
+      "htmlUrl": "https://urlToBrand"
+    },
+    {
+      "title": "Новый бренд — теперь банановый",
+      "description": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»",
+      "image": {
+        "url": "/images/banner_2.jpg",
+        "alt": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»"
+      },
+      "htmlUrl": "https://urlToBrand"
+    },
+    {
+      "title": "Новый бренд — теперь банановый",
+      "description": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»",
+      "image": {
+        "url": "/images/banner_3.jpg",
+        "alt": "Представляем вашему вниманию абсолютно новые игрушки из коллекции «Бархат»"
+      },
+      "htmlUrl": "https://urlToBrand"
+    }
+  ],
+  "catalog": [
+    {
+      "name": "Клиторальный стимулятор ENIGMA Deep Rose",
+      "brand": "LELO",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_1.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "tooltip": "Новинка",
+      "sale": true,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Стильный стимулятор для точки G Penguin",
+      "brand": "Satisfyer",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_2.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Двойной вибратор с фиксацией Nova",
+      "brand": "We-Vibe",
+      "price": "1 320 ₽",
+      "image": {
+        "url": "/images/catalog_3.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Пеньюар Amanta Babydoll & Matching Thong",
+      "brand": "Obsessive",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_4.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Кружевное платье Rougebelle Chemise & Matching Thong",
+      "brand": "Obsessive",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_5.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "tooltip": "Лучшее",
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Разноцветные шарики Кегеля Strengthening Balls",
+      "brand": "Satisfyer",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_6.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Черное кольцо для члена Enduro Cock Ring",
+      "brand": "Nexus",
+      "price": "1 320 ₽",
+      "image": {
+        "url": "/images/catalog_7.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "sale": false,
+      "slug": "/catalog/someitem"
+    },
+    {
+      "name": "Кокосовое массажное масло Body To Body Oil",
+      "brand": "Exotic",
+      "price": "3 660 ₽",
+      "image": {
+        "url": "/images/catalog_8.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur."
+      },
+      "tooltip": "Новинка",
+      "sale": false,
+      "slug": "/catalog/someitem"
+    }
+  ],
+  "articles": [
+    {
+      "name": "«Россияне на самоизоляции накупили секс-игрушек»",
+      "image": {
+        "url": "/images/author_2.png",
+        "alt": "«Поставщик счастья» на ECOM Expo 2021"
+      },
+      "author": "Lenta.ru:",
+      "slug": "/brands/slug_name_item",
+      "createdAt": "2021-07-02T13:29:25+03:00"
+    },
+    {
+      "name": "«Спрос на товары для взрослых вырос в пандемию»",
+      "image": {
+        "url": "/images/author_3.png",
+        "alt": "«Поставщик счастья» на ECOM Expo 2021"
+      },
+      "author": "Спутник:",
+      "slug": "/brands/slug_name_item",
+      "createdAt": "2021-07-02T13:29:25+03:00"
+    },
+    {
+      "name": "«Поставщик счастья» на ECOM Expo 2021",
+      "image": {
+        "url": "/images/author_4.png",
+        "alt": "«Поставщик счастья» на ECOM Expo 2021"
+      },
+      "author": "Inc. Russia:",
+      "slug": "/brands/slug_name_item",
+      "createdAt": "2021-07-02T13:29:25+03:00"
+    },
+    {
+      "name": "«Поставщик счастья» на ECOM Expo 2021",
+      "image": {
+        "url": "/images/author_2.png",
+        "alt": "«Поставщик счастья» на ECOM Expo 2021"
+      },
+      "author": "Lenta.ru:",
+      "slug": "/brands/slug_name_item",
+      "createdAt": "2021-07-02T13:29:25+03:00"
+    }
+  ],
+  "brands": [
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_1.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    },
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_2.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    },
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_3.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    },
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_4.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    },
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_5.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    },
+    {
+      "name": "brand",
+      "image": {
+        "url": "/images/brand_6.jpg",
+        "alt": "brand"
+      },
+      "slug": "/catalog/brand/some-brand/"
+    }
+  ],
+  "news": [
+    {
+      "page": 1,
+      "perPage": 8,
+      "currentPage": 1,
+      "firstPage": 1,
+      "total": "8",
+      "lastPage": 1,
+      "name": "Новости",
+      "items": [
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "/images/author_1.png",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-07-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-11-23T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-05-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2020-01-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "/images/author_1.png",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-07-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-11-23T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-05-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2020-01-02T13:29:25+03:00"
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "perPage": 5,
+      "currentPage": 1,
+      "firstPage": 1,
+      "total": "8",
+      "lastPage": 1,
+      "name": "Новости",
+      "items": [
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "/images/author_1.png",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "some_new",
+          "createdAt": "2021-07-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-11-23T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-05-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2020-01-02T13:29:25+03:00"
+        },
+        {
+          "name": "«Поставщик счастья» на ECOM Expo 2021",
+          "image": {
+            "url": "/images/author_1.png",
+            "alt": "«Поставщик счастья» на ECOM Expo 2021"
+          },
+          "slug": "http://baseurl/brands/slug_name_item",
+          "createdAt": "2021-07-02T13:29:25+03:00"
+        }
+      ]
+    }
+  ],
+  "newsDetails": [
+    {
+      "status": 1,
+      "slug": "/some_new/",
+      "data": {
+        "name": "Очень интересные вещи",
+        "title": "Вау",
+        "description": "Тупа классно",
+        "keywords": "Слова ааааа",
+        "content": "<p>Что либо<br></p>",
+        "createdAt": "2021-07-27",
+        "image": "https://p5s.ru/api/images/newstrip/content/3.png"
+      }
+    }
+  ]
+}
